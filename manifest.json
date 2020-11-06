@@ -1,0 +1,22 @@
+{
+    "name": "APP Maristela ",
+    "short_name": "Maristela",
+    "description": "APP Maristela ",
+    "lang": "pt-BR",
+    "start_url": "./",
+    "scope": "./?",
+    "display": "fullscreen",
+    "theme_color": "red",
+    "icons": [{
+            "src": "img/icon.png",
+            "sizes": "225x225",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "225x225",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "white"
+}
